@@ -1,0 +1,175 @@
+F:\UEProject\Flight_Training\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\Development\MySQL\Definitions.MySQL.h
+F:\UEProject\Flight_Training\Plugins\MySQL\Source\MySQL\Private\MySQL.cpp
+F:\UEProject\Flight_Training\Plugins\MySQL\Source\MySQL\Public\MySQL.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+d:\epicgame\ue_4.22\engine\source\runtime\projects\public\ModuleDescriptor.h
+d:\epicgame\ue_4.22\engine\source\runtime\projects\public\CustomBuildSteps.h
+d:\epicgame\ue_4.22\engine\source\runtime\projects\public\LocalizationDescriptor.h
+d:\epicgame\ue_4.22\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+F:\UEProject\Flight_Training\Plugins\MySQL\Source\MySQL\Private\MySQLBPLibrary.cpp
+F:\UEProject\Flight_Training\Plugins\MySQL\Source\MySQL\Public\MySQLBPLibrary.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\ImageWriteQueue/Public/ImageWriteBlueprintLibrary.h
+d:\epicgame\ue_4.22\engine\source\runtime\imagewritequeue\public\ImageWriteTypes.h
+D:\epicGame\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ImageWriteQueue\ImageWriteTypes.generated.h
+D:\epicGame\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ImageWriteQueue\ImageWriteBlueprintLibrary.generated.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\ImageWriteQueue/Public/ImageWriteQueue.h
+d:\epicgame\ue_4.22\engine\source\runtime\imagewritequeue\public\ImageWriteTask.h
+d:\epicgame\ue_4.22\engine\source\runtime\imagewritequeue\public\ImagePixelData.h
+F:\UEProject\Flight_Training\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\Inc\MySQL\MySQLBPLibrary.generated.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\XmlParser\Public\XmlParser.h
+d:\epicgame\ue_4.22\engine\source\runtime\xmlparser\public\XmlNode.h
+d:\epicgame\ue_4.22\engine\source\runtime\xmlparser\public\XmlFile.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+E:\Windows Kits\10\include\10.0.17763.0\um\Windows.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\sdkddkver.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\windef.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\minwindef.h
+E:\Windows Kits\10\include\10.0.17763.0\um\winnt.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\kernelspecs.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\basetsd.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\guiddef.h
+e:\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+e:\windows kits\10\include\10.0.17763.0\shared\poppack.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\pshpack4.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+e:\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+e:\windows kits\10\include\10.0.17763.0\shared\pshpack2.h
+e:\windows kits\10\include\10.0.17763.0\shared\poppack.h
+e:\windows kits\10\include\10.0.17763.0\shared\pshpack2.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\pshpack2.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+e:\windows kits\10\include\10.0.17763.0\shared\poppack.h
+e:\windows kits\10\include\10.0.17763.0\shared\pshpack8.h
+e:\windows kits\10\include\10.0.17763.0\shared\poppack.h
+e:\windows kits\10\include\10.0.17763.0\shared\pshpack1.h
+e:\windows kits\10\include\10.0.17763.0\shared\poppack.h
+e:\windows kits\10\include\10.0.17763.0\shared\pshpack1.h
+e:\windows kits\10\include\10.0.17763.0\shared\poppack.h
+e:\windows kits\10\include\10.0.17763.0\shared\poppack.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\apiset.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\ktmtypes.h
+E:\Windows Kits\10\include\10.0.17763.0\um\winbase.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\apisetcconv.h
+E:\Windows Kits\10\include\10.0.17763.0\um\minwinbase.h
+E:\Windows Kits\10\include\10.0.17763.0\um\apiquery2.h
+E:\Windows Kits\10\include\10.0.17763.0\um\processenv.h
+E:\Windows Kits\10\include\10.0.17763.0\um\fileapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\debugapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\utilapiset.h
+E:\Windows Kits\10\include\10.0.17763.0\um\handleapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\errhandlingapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\fibersapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\namedpipeapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\profileapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\heapapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\ioapiset.h
+E:\Windows Kits\10\include\10.0.17763.0\um\synchapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\interlockedapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\processthreadsapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\sysinfoapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\memoryapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\enclaveapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\threadpoollegacyapiset.h
+E:\Windows Kits\10\include\10.0.17763.0\um\threadpoolapiset.h
+E:\Windows Kits\10\include\10.0.17763.0\um\jobapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\jobapi2.h
+E:\Windows Kits\10\include\10.0.17763.0\um\wow64apiset.h
+E:\Windows Kits\10\include\10.0.17763.0\um\libloaderapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\securitybaseapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\namespaceapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\systemtopologyapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\processtopologyapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\securityappcontainer.h
+E:\Windows Kits\10\include\10.0.17763.0\um\realtimeapiset.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\winerror.h
+E:\Windows Kits\10\include\10.0.17763.0\um\timezoneapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\wingdi.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\pshpack2.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\pshpack4.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\pshpack4.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+E:\Windows Kits\10\include\10.0.17763.0\um\winuser.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\pshpack2.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\tvout.h
+E:\Windows Kits\10\include\10.0.17763.0\um\winnls.h
+E:\Windows Kits\10\include\10.0.17763.0\um\datetimeapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\stringapiset.h
+E:\Windows Kits\10\include\10.0.17763.0\um\winnls.h
+E:\Windows Kits\10\include\10.0.17763.0\um\wincon.h
+E:\Windows Kits\10\include\10.0.17763.0\um\wincontypes.h
+E:\Windows Kits\10\include\10.0.17763.0\um\consoleapi.h
+E:\Windows Kits\10\include\10.0.17763.0\um\consoleapi2.h
+E:\Windows Kits\10\include\10.0.17763.0\um\consoleapi3.h
+E:\Windows Kits\10\include\10.0.17763.0\um\winver.h
+E:\Windows Kits\10\include\10.0.17763.0\um\verrsrc.h
+E:\Windows Kits\10\include\10.0.17763.0\um\winreg.h
+E:\Windows Kits\10\include\10.0.17763.0\um\reason.h
+E:\Windows Kits\10\include\10.0.17763.0\um\winnetwk.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\wnnc.h
+E:\Windows Kits\10\include\10.0.17763.0\shared\stralign.h
+E:\Windows Kits\10\include\10.0.17763.0\um\imm.h
+E:\Windows Kits\10\include\10.0.17763.0\um\ime_cmodes.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\codecvt
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\locale
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+E:\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+E:\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocbuf
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocmes
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocmon
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\xloctime
+E:\install\Visual Studio\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE\ctime
+E:\Windows Kits\10\include\10.0.17763.0\ucrt\time.h
+D:\epicGame\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h

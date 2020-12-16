@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MySQL.cpp.obj": [
+			"MySQL.cpp.obj",
+			"MySQLBPLibrary.cpp.obj"
+		],
+		"Module.MySQL.gen.cpp.obj": [
+			"MySQL.init.gen.cpp.obj",
+			"MySQLBPLibrary.gen.cpp.obj"
+		]
+	}
+}

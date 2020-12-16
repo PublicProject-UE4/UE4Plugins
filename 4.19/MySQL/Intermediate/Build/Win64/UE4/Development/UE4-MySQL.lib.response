@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\360MoveData\Users\nirvash\Desktop\EFM_example\EFM_example_419\Plugins\MySQL\Intermediate\Build\Win64\UE4\Development\MySQL\Module.MySQL.cpp.obj"
+"D:\360MoveData\Users\nirvash\Desktop\EFM_example\EFM_example_419\Plugins\MySQL\Intermediate\Build\Win64\UE4\Development\MySQL\Module.MySQL.gen.cpp.obj"
+"D:\360MoveData\Users\nirvash\Desktop\EFM_example\EFM_example_419\Intermediate\Build\Win64\UE4\Development\MySQL\PCLaunch.rc.res"
+/OUT:"D:\360MoveData\Users\nirvash\Desktop\EFM_example\EFM_example_419\Plugins\MySQL\Binaries\Win64\UE4-MySQL.lib"

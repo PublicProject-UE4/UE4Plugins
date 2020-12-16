@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MySQL.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UEProject\Flight_Training\Intermediate\Build\Win64\Flight_TrainingEditor\Development\Engine\SharedPCH.Engine.NoUndef.h.obj"
+"F:\UEProject\Flight_Training\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\Development\MySQL\Module.MySQL.cpp.obj"
+"F:\UEProject\Flight_Training\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\Development\MySQL\Module.MySQL.gen.cpp.obj"
+"F:\UEProject\Flight_Training\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\Development\MySQL\Default.rc2.res"
+/OUT:"F:\UEProject\Flight_Training\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\Development\MySQL\UE4Editor-MySQL.lib"
+/INCLUDE:IMPLEMENT_MODULE_MySQL

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MySQL-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\epicGame\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"C:\Users\nirvash\Desktop\EFM_example\EFM_example_419\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\DebugGame\MySQL\Module.MySQL.cpp.obj"
+"C:\Users\nirvash\Desktop\EFM_example\EFM_example_419\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\DebugGame\MySQL\Module.MySQL.gen.cpp.obj"
+"D:\epicGame\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\MySQL\PCLaunch.rc.res"
+"D:\epicGame\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\nirvash\Desktop\EFM_example\EFM_example_419\Plugins\MySQL\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-MySQL-Win64-DebugGame.lib"
